@@ -1,0 +1,10 @@
+*.asv
+*.autosave
+*.m~
+.DS_Store
+Thumbs.db
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+data/raw/*
+!data/raw/.gitkeep
